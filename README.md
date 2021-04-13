@@ -36,6 +36,6 @@
     <li>Tuesday: Decide on the time period that fits the story idea. Begin researching online (2-3 hr). Order books at the library or bookstore. </li>
     <ol>
       
-      ![image](https://user-images.githubusercontent.com/80429009/114477073-6e2e2780-9bb0-11eb-85e9-434d365eec9b.jpeg)
+    <imag  ![image](https://user-images.githubusercontent.com/80429009/114477073-6e2e2780-9bb0-11eb-85e9-434d365eec9b.jpeg)/>
 
   
