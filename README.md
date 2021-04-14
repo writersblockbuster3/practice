@@ -50,4 +50,11 @@
   <body>
     <p>To understand your time period, it is best to read books, study photographs (if applicable), and go into archives. If there's a museum that contains objects of interest to your story, go there. Travel to the location where your story takes place to get sensory details, which will draw your reader in. </p>
   
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Conduct Meaningful Interviews</title>   
+  </head>
+         <p> In order to conduct meaningful interviews, you need to reflect on what you still want to know after you've done all the preliminary research. Make sure you are clear with yourself on your goals. Interviews can be wonderful opportunities to get family stories--but check in with your interviewee in advance to see if they are comfortable sharing! </p>
+  
 
